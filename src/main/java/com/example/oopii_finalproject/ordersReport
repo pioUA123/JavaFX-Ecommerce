@@ -1,0 +1,26 @@
+=== Order Report ===
+Order ID: 1 | User ID: 2 | Total: $1250.0 | Status: PENDING
+Order ID: 2 | User ID: 2 | Total: $295.0 | Status: PENDING
+Order ID: 3 | User ID: 3 | Total: $45.0 | Status: PENDING
+Order ID: 4 | User ID: 3 | Total: $225.0 | Status: PENDING
+Order ID: 7 | User ID: 10 | Total: $2400.0 | Status: PENDING
+Order ID: 8 | User ID: 10 | Total: $6000.0 | Status: PENDING
+Order ID: 9 | User ID: 11 | Total: $785.0 | Status: PENDING
+Order ID: 10 | User ID: 11 | Total: $540.0 | Status: PENDING
+Order ID: 11 | User ID: 11 | Total: $75.0 | Status: PENDING
+Order ID: 12 | User ID: 11 | Total: $2200.0 | Status: PENDING
+Order ID: 13 | User ID: 11 | Total: $150.0 | Status: PENDING
+Order ID: 14 | User ID: 11 | Total: $50.0 | Status: PENDING
+Order ID: 15 | User ID: 11 | Total: $75.0 | Status: CANCELLED
+Order ID: 16 | User ID: 11 | Total: $0.0 | Status: CANCELLED
+Order ID: 17 | User ID: 11 | Total: $0.0 | Status: DELIVERED
+Order ID: 18 | User ID: 11 | Total: $0.0 | Status: DELIVERED
+Order ID: 19 | User ID: 11 | Total: $120.0 | Status: DELIVERED
+Order ID: 20 | User ID: 11 | Total: $220.0 | Status: DELIVERED
+Order ID: 21 | User ID: 11 | Total: $335.0 | Status: DELIVERED
+Order ID: 22 | User ID: 11 | Total: $150.0 | Status: CANCELLED
+Order ID: 23 | User ID: 11 | Total: $2550.0 | Status: DELIVERED
+Order ID: 24 | User ID: 12 | Total: $135.0 | Status: DELIVERED
+Order ID: 25 | User ID: 11 | Total: $6220.0 | Status: PENDING
+Order ID: 26 | User ID: 14 | Total: $2550.0 | Status: DELIVERED
+Order ID: 27 | User ID: 14 | Total: $440.0 | Status: CANCELLED
