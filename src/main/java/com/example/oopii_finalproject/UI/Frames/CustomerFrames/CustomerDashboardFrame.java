@@ -119,11 +119,11 @@ public class CustomerDashboardFrame {
         productGrid.setVgap(20);
         productGrid.setPrefWrapLength(900);
 
-        Image bg = new Image("file:src/main/java/com/example/oopii_finalproject/Images/Bg2.jpg");
+        //Image bg = new Image("file:src/main/java/com/example/oopii_finalproject/Images/Bg2.jpg");
 
-        BackgroundImage gridBg = new BackgroundImage(bg, BackgroundRepeat.NO_REPEAT, BackgroundRepeat.NO_REPEAT, BackgroundPosition.CENTER, new BackgroundSize(100, 100, true, true, false, true));
+        //BackgroundImage gridBg = new BackgroundImage(bg, BackgroundRepeat.NO_REPEAT, BackgroundRepeat.NO_REPEAT, BackgroundPosition.CENTER, new BackgroundSize(100, 100, true, true, false, true));
 
-        productGrid.setBackground(new Background(gridBg));
+        //productGrid.setBackground(new Background(gridBg));
 
         ScrollPane scrollPane = new ScrollPane(productGrid);
         scrollPane.setFitToWidth(true);
