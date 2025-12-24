@@ -5,9 +5,13 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DBConnection {
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/oop2-ecommerce";
-    private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "12345";
+    private static final String DB_URL =
+        System.getenv().getOrDefault("DB_URL", "jdbc:mysql://localhost:3306/oop2-ecommerce");
+    private static final String DB_USER =
+        System.getenv().getOrDefault("DB_USER", "root");
+    private static final String DB_PASSWORD =
+        System.getenv().getOrDefault("DB_PASSWORD", "");
+
 
     private Connection connection;
 
