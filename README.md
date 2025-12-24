@@ -21,28 +21,28 @@ Includes user/admin flows such as product browsing, favoriting, placing/processi
 ## Screenshots
 
 ### Login
-![Login](screenshots/01-Login.png)
+![Login](Screenshots/01-Login.png)
 
 ### Customer: Catalog
-![Catalog](screenshots/02-Catalog.png)
+![Catalog](Screenshots/02-Catalog.png)
 
 ### Customer: Cart
-![Cart](screenshots/03-Cart.png)
+![Cart](Screenshots/03-Cart.png)
 
 ### Customer: Checkout
-![Checkout](screenshots/04-Checkout.png)
+![Checkout](Screenshots/04-Checkout.png)
 
 ### Customer: Order History
-![Orders](screenshots/05-Orders.png)
+![Orders](Screenshots/05-Orders.png)
 
 ### Admin: Dashboard
-![Admin Dashboard](screenshots/06-AdminDashboard.png)
+![Admin Dashboard](Screenshots/06-AdminDashboard.png)
 
 ### Admin: Product Management
-![Admin Products](screenshots/07-AdminProducts.png)
+![Admin Products](Screenshots/07-AdminProducts.png)
 
 ### Admin: Order Management
-![Admin Orders](screenshots/08-AdminOrders.png)
+![Admin Orders](Screenshots/08-AdminOrders.png)
 
 ### Admin: Reviews Management
-![Admin Reviews](screenshots/09-Reviews.png)
+![Admin Reviews](Screenshots/09-Reviews.png)
